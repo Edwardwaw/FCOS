@@ -1,8 +1,6 @@
 # FCOS
 
-forked from liangheming's github 
-
-[repo]: https://github.com/liangheming/fcosv1
+forked from liangheming's github [repo]: https://github.com/liangheming/fcosv1
 
 ## result
 
